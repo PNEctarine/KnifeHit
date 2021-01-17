@@ -1,0 +1,1028 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-01-17T21:54:57.782+03:00
+  initializedAtString: 2021-01-17T21:52:01.611+03:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/.DS_Store
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Apples.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Apples.meta
+    projectPath: Assets/Apples.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Apples/Apple.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Apples/Apple.asset
+    projectPath: Assets/Apples/Apple.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Apples/Apple.asset.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Apples/Apple.asset.meta
+    projectPath: Assets/Apples/Apple.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs.meta
+    projectPath: Assets/Prefubs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/Apple.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/Apple.prefab
+    projectPath: Assets/Prefubs/Apple.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/Apple.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/Apple.prefab.meta
+    projectPath: Assets/Prefubs/Apple.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/BrownKnife.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/BrownKnife.prefab
+    projectPath: Assets/Prefubs/BrownKnife.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/BrownKnife.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/BrownKnife.prefab.meta
+    projectPath: Assets/Prefubs/BrownKnife.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedApple_0.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedApple_0.prefab
+    projectPath: Assets/Prefubs/DestroyedApple_0.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedApple_0.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedApple_0.prefab.meta
+    projectPath: Assets/Prefubs/DestroyedApple_0.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedApple_1.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedApple_1.prefab
+    projectPath: Assets/Prefubs/DestroyedApple_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedApple_1.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedApple_1.prefab.meta
+    projectPath: Assets/Prefubs/DestroyedApple_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedLog.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedLog.prefab
+    projectPath: Assets/Prefubs/DestroyedLog.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/DestroyedLog.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/DestroyedLog.prefab.meta
+    projectPath: Assets/Prefubs/DestroyedLog.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/KnifeIcon.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/KnifeIcon.prefab
+    projectPath: Assets/Prefubs/KnifeIcon.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/KnifeIcon.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/KnifeIcon.prefab.meta
+    projectPath: Assets/Prefubs/KnifeIcon.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/Log.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/Log.prefab
+    projectPath: Assets/Prefubs/Log.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/Log.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/Log.prefab.meta
+    projectPath: Assets/Prefubs/Log.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/RedKnife.prefab
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/RedKnife.prefab
+    projectPath: Assets/Prefubs/RedKnife.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefubs/RedKnife.prefab.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Prefubs/RedKnife.prefab.meta
+    projectPath: Assets/Prefubs/RedKnife.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scenes.meta
+    projectPath: Assets/Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/GameScene.unity
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scenes/GameScene.unity
+    projectPath: Assets/Scenes/GameScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/GameScene.unity.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scenes/GameScene.unity.meta
+    projectPath: Assets/Scenes/GameScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/MainMenu.unity
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scenes/MainMenu.unity
+    projectPath: Assets/Scenes/MainMenu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/MainMenu.unity.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scenes/MainMenu.unity.meta
+    projectPath: Assets/Scenes/MainMenu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts.meta
+    projectPath: Assets/Scripsts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/AppleSpawner.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/AppleSpawner.cs
+    projectPath: Assets/Scripsts/AppleSpawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/AppleSpawner.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/AppleSpawner.cs.meta
+    projectPath: Assets/Scripsts/AppleSpawner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/Data.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/Data.cs
+    projectPath: Assets/Scripsts/Data.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/Data.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/Data.cs.meta
+    projectPath: Assets/Scripsts/Data.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/DestroyLog.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/DestroyLog.cs
+    projectPath: Assets/Scripsts/DestroyLog.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/DestroyLog.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/DestroyLog.cs.meta
+    projectPath: Assets/Scripsts/DestroyLog.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/DestroyParts.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/DestroyParts.cs
+    projectPath: Assets/Scripsts/DestroyParts.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/DestroyParts.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/DestroyParts.cs.meta
+    projectPath: Assets/Scripsts/DestroyParts.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/GameOver.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/GameOver.cs
+    projectPath: Assets/Scripsts/GameOver.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/GameOver.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/GameOver.cs.meta
+    projectPath: Assets/Scripsts/GameOver.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeCollision.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeCollision.cs
+    projectPath: Assets/Scripsts/KnifeCollision.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeCollision.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeCollision.cs.meta
+    projectPath: Assets/Scripsts/KnifeCollision.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeHit.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeHit.cs
+    projectPath: Assets/Scripsts/KnifeHit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeHit.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeHit.cs.meta
+    projectPath: Assets/Scripsts/KnifeHit.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeOnLogGeneration.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeOnLogGeneration.cs
+    projectPath: Assets/Scripsts/KnifeOnLogGeneration.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeOnLogGeneration.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeOnLogGeneration.cs.meta
+    projectPath: Assets/Scripsts/KnifeOnLogGeneration.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeSpawn.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeSpawn.cs
+    projectPath: Assets/Scripsts/KnifeSpawn.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeSpawn.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeSpawn.cs.meta
+    projectPath: Assets/Scripsts/KnifeSpawn.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeUI.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeUI.cs
+    projectPath: Assets/Scripsts/KnifeUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/KnifeUI.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/KnifeUI.cs.meta
+    projectPath: Assets/Scripsts/KnifeUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/LogRotation.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/LogRotation.cs
+    projectPath: Assets/Scripsts/LogRotation.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/LogRotation.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/LogRotation.cs.meta
+    projectPath: Assets/Scripsts/LogRotation.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/Menu.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/Menu.cs
+    projectPath: Assets/Scripsts/Menu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/Menu.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/Menu.cs.meta
+    projectPath: Assets/Scripsts/Menu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/NextLevel.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/NextLevel.cs
+    projectPath: Assets/Scripsts/NextLevel.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripsts/NextLevel.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Scripsts/NextLevel.cs.meta
+    projectPath: Assets/Scripsts/NextLevel.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds.meta
+    projectPath: Assets/Sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/AppleHitSound.mp3
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/AppleHitSound.mp3
+    projectPath: Assets/Sounds/AppleHitSound.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/AppleHitSound.mp3.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/AppleHitSound.mp3.meta
+    projectPath: Assets/Sounds/AppleHitSound.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/DestroyedLogSound.mp3
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/DestroyedLogSound.mp3
+    projectPath: Assets/Sounds/DestroyedLogSound.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/DestroyedLogSound.mp3.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/DestroyedLogSound.mp3.meta
+    projectPath: Assets/Sounds/DestroyedLogSound.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/HitSound.mp3
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/HitSound.mp3
+    projectPath: Assets/Sounds/HitSound.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/HitSound.mp3.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/HitSound.mp3.meta
+    projectPath: Assets/Sounds/HitSound.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/LoseHit.mp3
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/LoseHit.mp3
+    projectPath: Assets/Sounds/LoseHit.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sounds/LoseHit.mp3.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sounds/LoseHit.mp3.meta
+    projectPath: Assets/Sounds/LoseHit.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites.meta
+    projectPath: Assets/Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Apple.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Apple.png
+    projectPath: Assets/Sprites/Apple.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Apple.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Apple.png.meta
+    projectPath: Assets/Sprites/Apple.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Background.png
+    projectPath: Assets/Sprites/Background.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Background.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Background.png.meta
+    projectPath: Assets/Sprites/Background.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Button.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Button.png
+    projectPath: Assets/Sprites/Button.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Button.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Button.png.meta
+    projectPath: Assets/Sprites/Button.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Destroyed log.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Destroyed
+      log.png
+    projectPath: Assets/Sprites/Destroyed log.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Destroyed log.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Destroyed
+      log.png.meta
+    projectPath: Assets/Sprites/Destroyed log.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/DestroyedApple.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/DestroyedApple.png
+    projectPath: Assets/Sprites/DestroyedApple.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/DestroyedApple.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/DestroyedApple.png.meta
+    projectPath: Assets/Sprites/DestroyedApple.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Knife.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Knife.png
+    projectPath: Assets/Sprites/Knife.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Knife.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Knife.png.meta
+    projectPath: Assets/Sprites/Knife.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Knife2.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Knife2.png
+    projectPath: Assets/Sprites/Knife2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Knife2.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Knife2.png.meta
+    projectPath: Assets/Sprites/Knife2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Log.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Log.png
+    projectPath: Assets/Sprites/Log.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Log.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Log.png.meta
+    projectPath: Assets/Sprites/Log.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Sword.png
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Sword.png
+    projectPath: Assets/Sprites/Sword.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Sprites/Sword.png.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Sprites/Sword.png.meta
+    projectPath: Assets/Sprites/Sword.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration.meta
+    projectPath: Assets/Vibration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Example.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Example.meta
+    projectPath: Assets/Vibration/Example.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Example/VibrationExample.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Example/VibrationExample.cs
+    projectPath: Assets/Vibration/Example/VibrationExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Example/VibrationExample.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Example/VibrationExample.cs.meta
+    projectPath: Assets/Vibration/Example/VibrationExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Example/VibrationExample.unity
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Example/VibrationExample.unity
+    projectPath: Assets/Vibration/Example/VibrationExample.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Example/VibrationExample.unity.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Example/VibrationExample.unity.meta
+    projectPath: Assets/Vibration/Example/VibrationExample.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins.meta
+    projectPath: Assets/Vibration/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS.meta
+    projectPath: Assets/Vibration/Plugins/iOS.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS/Vibration.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS/Vibration.meta
+    projectPath: Assets/Vibration/Plugins/iOS/Vibration.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS/Vibration/Vibration.h
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS/Vibration/Vibration.h
+    projectPath: Assets/Vibration/Plugins/iOS/Vibration/Vibration.h
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS/Vibration/Vibration.h.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS/Vibration/Vibration.h.meta
+    projectPath: Assets/Vibration/Plugins/iOS/Vibration/Vibration.h.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm
+    projectPath: Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm.meta
+    projectPath: Assets/Vibration/Plugins/iOS/Vibration/Vibration.mm.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Vibration.cs
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Vibration.cs
+    projectPath: Assets/Vibration/Vibration.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Vibration/Vibration.cs.meta
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/Vibration/Vibration.cs.meta
+    projectPath: Assets/Vibration/Vibration.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages/manifest.json
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/AudioManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/AudioManager.asset
+    projectPath: ProjectSettings/AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ClusterInputManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/ClusterInputManager.asset
+    projectPath: ProjectSettings/ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/DynamicsManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/DynamicsManager.asset
+    projectPath: ProjectSettings/DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/EditorSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/EditorSettings.asset
+    projectPath: ProjectSettings/EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/GraphicsSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/GraphicsSettings.asset
+    projectPath: ProjectSettings/GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/InputManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/InputManager.asset
+    projectPath: ProjectSettings/InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NavMeshAreas.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/NavMeshAreas.asset
+    projectPath: ProjectSettings/NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/NetworkManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/NetworkManager.asset
+    projectPath: ProjectSettings/NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/Physics2DSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/Physics2DSettings.asset
+    projectPath: ProjectSettings/Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/PresetManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/PresetManager.asset
+    projectPath: ProjectSettings/PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/QualitySettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/QualitySettings.asset
+    projectPath: ProjectSettings/QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/TimeManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/TimeManager.asset
+    projectPath: ProjectSettings/TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings/XRSettings.asset
+    fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/ProjectSettings/XRSettings.asset
+    projectPath: ProjectSettings/XRSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-01-17T21:55:40.265+03:00
+  initializedAtString: 2021-01-17T21:52:01.445+03:00
+  log:
+  - commitID: 98b531f9cf7ff10ebc8c00211f15669dfe07faef
+    mergeA: 
+    mergeB: 
+    authorName: Nikita
+    authorEmail: nikitav.i.p20002@gmail.com
+    commitEmail: nikitav.i.p20002@gmail.com
+    commitName: Nikita
+    summary: Initial commit
+    description: 
+    timeString: 2021-01-17T21:52:00.000+03:00
+    commitTimeString: 2021-01-17T21:52:00.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/Polishchuk/Yandex.Disk.localized/Projects/Knife hit/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
